@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Teams & Teams Voice PowerShell stuff 
 - 🌱 I’m currently learning Azure stuff, GraphAPI, Pester
-- ✨ My mission is to make administration easier to use
+- ✨ My mission is to make administration easier for everyone
 - 😄 Pronouns: he/him

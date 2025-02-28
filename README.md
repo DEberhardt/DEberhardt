@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Teams & Teams Voice PowerShell stuff 
-- 🌱 I’m currently learning Azure stuff, GraphAPI, Pester
+- 🔭 I’m currently working on automation for M365 provisioning 
+- 🌱 I’m currently learning Python, OOP, FP, GraphAPI
 - ✨ My mission is to make administration easier for everyone
 - 😄 Pronouns: he/him
